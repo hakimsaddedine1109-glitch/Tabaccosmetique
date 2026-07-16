@@ -1,0 +1,15 @@
+{
+  "name": "Bureau Tabac & Cosmétique",
+  "short_name": "TabacCosmo",
+  "description": "Gestion de caisse, stock et crédit clients pour bureau tabac et cosmétique",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1F2E2B",
+  "theme_color": "#1F2E2B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
