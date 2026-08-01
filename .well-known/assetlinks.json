@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.workers.unknownrb9.comptoirepro.twa",
+        "sha256_cert_fingerprints": ["88:83:9B:40:89:D5:62:DF:BA:7B:75:BB:16:CB:98:63:E4:5D:93:75:02:9F:FA:D9:82:BD:E3:85:E9:A0:E8:2B"]
+      }
+    }]
